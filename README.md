@@ -1,16 +1,25 @@
-### Hi there 👋
+Hey 👋 
 
-<!--
-**DEmanderbag/DEmanderbag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Dusan Milosevic and I am a front-end Developer from Serbia, living in Belgrade.
 
-Here are some ideas to get you started:
+👨‍💻 I'm currently creating projects from [Frontend Mentor](https://www.frontendmentor.io/profile/DEmanderbag)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💬 I’m up for a discussion on whatever project you have in mind.
+
+📚 I’m currently learning React
+
+⏱ Hobbies include, Tennis, Hiking and Riding bike
+
+⚡ Fun fact: The photo on my [portfolio](https://www.heydusan.com/) took over 100 attempts to get it just right.
+
+🌐 Tech Stack: HTML / CSS / JavaScript / Bootstrap
+
+🧰 Visual Studio Code
+
+🧩 Git / GitHub / Markdown
+
+🔭 Goals of 2021
+My main goal is to keep improving and learning about new web tech as well as improving my coding skills. I’d like to participate more in creative discussions on the Frontend Mentor website as well as mentoring beginners.
+
+Let's connect: [Email](mailto:dusan-milosevic@outlook.com) / [Linkedin](https://www.linkedin.com/in/dusan-milosevic/) / [Twitter](https://twitter.com/demanderbag_) / [Telegram](https://t.me/demanderbag)
+

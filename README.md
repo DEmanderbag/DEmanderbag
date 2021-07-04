@@ -1,12 +1,12 @@
 Hey 👋 
 
-My name is Dusan Milosevic and I am a front-end Developer from Serbia, living in Belgrade.
+My name is Dusan Milosevic and I am a front-end Developer from Serbia, living in Novi Sad.
 
 👨‍💻 I'm currently creating projects from [Frontend Mentor](https://www.frontendmentor.io/profile/DEmanderbag)
 
 💬 I’m up for a discussion on whatever project you have in mind.
 
-📚 I’m currently learning React
+📚 I’m currently learning Angular 
 
 ⏱ Hobbies include, Tennis, Hiking and Riding bike
 

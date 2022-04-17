@@ -1,25 +1,21 @@
 Hey 👋 
 
-My name is Dusan Milosevic and I am a front-end Developer from Serbia, living in Novi Sad.
+My name is Dusan Milosevic, I am a Front-End Developer who likes solving problems with design and code.
 
-👨‍💻 I'm currently creating projects from [Frontend Mentor](https://www.frontendmentor.io/profile/DEmanderbag)
+👨‍💻 I'm currently working in the medical field while using Angular and Boostrap on the day to day bases.
 
-💬 I’m up for a discussion on whatever project you have in mind.
+🌐 Tech Stack: Angular • React (Next.js) • HTML • CSS (SCSS, CSS Modules) • Bootstrap  • JavaScript
 
-📚 I’m currently learning Angular 
+🧩 Tools: Visual Studio Code Git • GitHub • Markdown • Jira • Azure DevOps 
 
-⏱ Hobbies include, Tennis, Hiking and Riding bike
+⏱ Hobbies include, Tennis, Hiking and Riding a bike
 
-⚡ Fun fact: The photo on my [portfolio](https://www.heydusan.com/) took over 100 attempts to get it just right.
+💬 In my spare time, you'll find me travelling to new places, listening to audiobooks and podcasts, taking photos or helping people with day to day tasks on Be My Eyes.
 
-🌐 Tech Stack: HTML / CSS / JavaScript / Bootstrap
 
-🧰 Visual Studio Code
-
-🧩 Git / GitHub / Markdown
-
-🔭 Goals of 2021
-My main goal is to keep improving and learning about new web tech as well as improving my coding skills. I’d like to participate more in creative discussions on the Frontend Mentor website as well as mentoring beginners.
-
-Let's connect: [Email](mailto:dusan-milosevic@outlook.com) / [Linkedin](https://www.linkedin.com/in/dusan-milosevic/) / [Twitter](https://twitter.com/demanderbag_) / [Telegram](https://t.me/demanderbag)
+- [Website](https://www.dusan.codes)
+- [Blog where I write about code](https://www.dusan.codes/playground)
+- [Twitter](https://twitter.com/demanderbag_)
+- [Email](mailto:dusan-milosevic@outlook.com)
+- [Linkedin](https://www.linkedin.com/in/dusan-milosevic/)
 

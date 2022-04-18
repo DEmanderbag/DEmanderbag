@@ -8,7 +8,7 @@ My name is Dusan Milosevic, I am a Front-End Developer who likes solving problem
 
 🧩 Tools: Visual Studio Code Git • GitHub • Markdown • Jira • Azure DevOps 
 
-⏱ Hobbies include, Tennis, Hiking and Riding a bike
+⏱ Hobbies: Tennis, Hiking, Cycling
 
 💬 In my spare time, you'll find me travelling to new places, listening to audiobooks and podcasts, taking photos or helping people with day to day tasks on Be My Eyes.
 
